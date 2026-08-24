@@ -1,0 +1,9 @@
+interface:
+  display_name: "One-page Chinese Resume"
+  short_description: "Generate a polished, validated one-page Chinese resume PDF"
+  brand_color: "#17365D"
+  default_prompt: "Use $one-page-cn-resume to update my resume data and generate a verified one-page PDF."
+
+policy:
+  allow_implicit_invocation: true
+

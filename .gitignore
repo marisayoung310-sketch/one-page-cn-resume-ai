@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+tmp/
+output/
+data/resume.private.json
+
+# Local source artifacts retained outside the portfolio project
+/build_resume.py
+/build_resume_pdf.py
+/*.md
+!/README.md
+!/SKILL.md
